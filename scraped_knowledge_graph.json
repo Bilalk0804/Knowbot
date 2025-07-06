@@ -1,0 +1,509 @@
+{
+  "entities": {
+    "entity_0": {
+      "id": "entity_0",
+      "name": "In",
+      "type": "concept",
+      "source": "https://docs.python.org/3/"
+    },
+    "entity_1": {
+      "id": "entity_1",
+      "name": "Tutorial\nStart",
+      "type": "concept",
+      "source": "https://docs.python.org/3/"
+    },
+    "entity_2": {
+      "id": "entity_2",
+      "name": "Glossary\nTerms",
+      "type": "concept",
+      "source": "https://docs.python.org/3/"
+    },
+    "entity_3": {
+      "id": "entity_3",
+      "name": "Distributing Python",
+      "type": "concept",
+      "source": "https://docs.python.org/3/"
+    },
+    "entity_4": {
+      "id": "entity_4",
+      "name": "Search",
+      "type": "concept",
+      "source": "https://docs.python.org/3/"
+    },
+    "entity_5": {
+      "id": "entity_5",
+      "name": "This",
+      "type": "concept",
+      "source": "https://docs.python.org/3/"
+    },
+    "entity_6": {
+      "id": "entity_6",
+      "name": "Documentation",
+      "type": "concept",
+      "source": "https://docs.python.org/3/"
+    },
+    "entity_7": {
+      "id": "entity_7",
+      "name": "Standard",
+      "type": "concept",
+      "source": "https://docs.python.org/3/"
+    },
+    "entity_8": {
+      "id": "entity_8",
+      "name": "Complete",
+      "type": "concept",
+      "source": "https://docs.python.org/3/"
+    },
+    "entity_9": {
+      "id": "entity_9",
+      "name": "Language",
+      "type": "concept",
+      "source": "https://docs.python.org/3/"
+    },
+    "entity_10": {
+      "id": "entity_10",
+      "name": "Class Objects",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/"
+    },
+    "entity_11": {
+      "id": "entity_11",
+      "name": "Program Termination",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/"
+    },
+    "entity_12": {
+      "id": "entity_12",
+      "name": "Nested List Comprehensions",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/"
+    },
+    "entity_13": {
+      "id": "entity_13",
+      "name": "Using Lists",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/"
+    },
+    "entity_14": {
+      "id": "entity_14",
+      "name": "From",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/"
+    },
+    "entity_15": {
+      "id": "entity_15",
+      "name": "This",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/"
+    },
+    "entity_16": {
+      "id": "entity_16",
+      "name": "Python Interpreter",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/"
+    },
+    "entity_17": {
+      "id": "entity_17",
+      "name": "Data Structures",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/"
+    },
+    "entity_18": {
+      "id": "entity_18",
+      "name": "Multiple Directories",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/"
+    },
+    "entity_19": {
+      "id": "entity_19",
+      "name": "Instance Variables",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/"
+    },
+    "entity_20": {
+      "id": "entity_20",
+      "name": "Pypy",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "entity_21": {
+      "id": "entity_21",
+      "name": "However",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "entity_22": {
+      "id": "entity_22",
+      "name": "Attempting",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "entity_23": {
+      "id": "entity_23",
+      "name": "With Python",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "entity_24": {
+      "id": "entity_24",
+      "name": "This",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "entity_25": {
+      "id": "entity_25",
+      "name": "First",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "entity_26": {
+      "id": "entity_26",
+      "name": "Python",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "entity_27": {
+      "id": "entity_27",
+      "name": "Don",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "entity_28": {
+      "id": "entity_28",
+      "name": "First Steps Towards Programming\nOf",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "entity_29": {
+      "id": "entity_29",
+      "name": "Therefore",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "entity_30": {
+      "id": "entity_30",
+      "name": "Use",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    "entity_31": {
+      "id": "entity_31",
+      "name": "Loops\nIn",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    "entity_32": {
+      "id": "entity_32",
+      "name": "Subpatterns",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    "entity_33": {
+      "id": "entity_33",
+      "name": "Wrap",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    "entity_34": {
+      "id": "entity_34",
+      "name": "Come",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    "entity_35": {
+      "id": "entity_35",
+      "name": "This",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    "entity_36": {
+      "id": "entity_36",
+      "name": "Data Structures",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    "entity_37": {
+      "id": "entity_37",
+      "name": "Most",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    "entity_38": {
+      "id": "entity_38",
+      "name": "And",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    "entity_39": {
+      "id": "entity_39",
+      "name": "Dotted",
+      "type": "concept",
+      "source": "https://docs.python.org/3/tutorial/controlflow.html"
+    }
+  },
+  "relationships": [
+    {
+      "source": "entity_0",
+      "target": "entity_1",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/"
+    },
+    {
+      "source": "entity_1",
+      "target": "entity_2",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/"
+    },
+    {
+      "source": "entity_2",
+      "target": "entity_3",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/"
+    },
+    {
+      "source": "entity_3",
+      "target": "entity_4",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/"
+    },
+    {
+      "source": "entity_4",
+      "target": "entity_5",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/"
+    },
+    {
+      "source": "entity_5",
+      "target": "entity_6",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/"
+    },
+    {
+      "source": "entity_6",
+      "target": "entity_7",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/"
+    },
+    {
+      "source": "entity_7",
+      "target": "entity_8",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/"
+    },
+    {
+      "source": "entity_8",
+      "target": "entity_9",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/"
+    },
+    {
+      "source": "entity_10",
+      "target": "entity_11",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "source": "entity_11",
+      "target": "entity_12",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "source": "entity_12",
+      "target": "entity_13",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "source": "entity_13",
+      "target": "entity_14",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "source": "entity_14",
+      "target": "entity_15",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "source": "entity_15",
+      "target": "entity_16",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "source": "entity_16",
+      "target": "entity_17",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "source": "entity_17",
+      "target": "entity_18",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "source": "entity_18",
+      "target": "entity_19",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "source": "entity_20",
+      "target": "entity_21",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    {
+      "source": "entity_21",
+      "target": "entity_22",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    {
+      "source": "entity_22",
+      "target": "entity_23",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    {
+      "source": "entity_23",
+      "target": "entity_24",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    {
+      "source": "entity_24",
+      "target": "entity_25",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    {
+      "source": "entity_25",
+      "target": "entity_26",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    {
+      "source": "entity_26",
+      "target": "entity_27",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    {
+      "source": "entity_27",
+      "target": "entity_28",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    {
+      "source": "entity_28",
+      "target": "entity_29",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    {
+      "source": "entity_30",
+      "target": "entity_31",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    {
+      "source": "entity_31",
+      "target": "entity_32",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    {
+      "source": "entity_32",
+      "target": "entity_33",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    {
+      "source": "entity_33",
+      "target": "entity_34",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    {
+      "source": "entity_34",
+      "target": "entity_35",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    {
+      "source": "entity_35",
+      "target": "entity_36",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    {
+      "source": "entity_36",
+      "target": "entity_37",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    {
+      "source": "entity_37",
+      "target": "entity_38",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/controlflow.html"
+    },
+    {
+      "source": "entity_38",
+      "target": "entity_39",
+      "type": "related_to",
+      "source_url": "https://docs.python.org/3/tutorial/controlflow.html"
+    }
+  ],
+  "documents": {
+    "scraped_0__3_": {
+      "content": "Python 3.13.5 documentation\nWelcome! This is the official documentation for Python 3.13.5.\nDocumentation sections:\nWhat's new in Python 3.13?\nOr all \"What's new\" documents since Python 2.0\nTutorial\nStart here: a tour of Python's syntax and features\nLibrary reference\nStandard library and builtins\nLanguage reference\nSyntax and language elements\nPython setup and usage\nHow to install, configure, and use Python\nPython HOWTOs\nIn-depth topic manuals\nInstalling Python modules\nThird-party modules and PyPI.org\nDistributing Python modules\nPublishing modules for use by other people\nExtending and embedding\nFor C/C++ programmers\nPython's C API\nC API reference\nFAQs\nFrequently asked questions (with answers!)\nDeprecations\nDeprecated functionality\nIndices, glossary, and search:\nGlobal module index\nAll modules and libraries\nGeneral index\nAll functions, classes, and terms\nGlossary\nTerms explained\nSearch page\nSearch this documentation\nComplete table of contents\nLists all sections and subsections\nProject information:\nReporting issues\nContributing to docs\nDownload the documentation\nHistory and license of Python\nCopyright\nAbout the documentation",
+      "metadata": {
+        "url": "https://docs.python.org/3/",
+        "title": "Python 3.13.5 documentation",
+        "source": "web_scraping",
+        "navigation": "Download\nDownload these documents\nDocs by version\nPython 3.15 (in development)\nPython 3.14 (pre-release)\nPython 3.13 (stable)\nPython 3.12 (security-fixes)\nPython 3.11 (security-fixes)\nPython 3.10 (security-fixes)\nPython 3.9 (security-fixes)\nPython 3.8 (EOL)\nPython 3.7 (EOL)\nPython 3.6 (EOL)\nPython 3.5 (EOL)\nPython 3.4 (EOL)\nPython 3.3 (EOL)\nPython 3.2 (EOL)\nPython 3.1 (EOL)\nPython 3.0 (EOL)\nPython 2.7 (EOL)\nPython 2.6 (EOL)\nAll versions\nOther resources\nPEP Index\nBeginner's Guide\nBook List\nAudio/Visual Talks\nPython Developer\u2019s Guide\n\u00ab",
+        "scraped_at": "2025-07-06T01:38:54.819042"
+      },
+      "chunks": 2
+    },
+    "scraped_1__3_tutorial_": {
+      "content": "The Python Tutorial\nTip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming.\nPython is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python\u2019s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.\nThe Python interpreter and the extensive standard library are freely available in source or binary form for all major platforms from the Python web site, https://www.python.org/, and may be freely distributed. The same site also contains distributions of and pointers to many free third party Python modules, programs and tools, and additional documentation.\nThe Python interpreter is easily extended with new functions and data types implemented in C or C++ (or other languages callable from C). Python is also suitable as an extension language for customizable applications.\nThis tutorial introduces the reader informally to the basic concepts and features of the Python language and system. Be aware that it expects you to have a basic understanding of programming in general. It helps to have a Python interpreter handy for hands-on experience, but all examples are self-contained, so the tutorial can be read off-line as well.\nFor a description of standard objects and modules, see The Python Standard Library. The Python Language Reference gives a more formal definition of the language. To write extensions in C or C++, read Extending and Embedding the Python Interpreter and Python/C API Reference Manual. There are also several books covering Python in depth.\nThis tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python\u2019s most noteworthy features, and will give you a good idea of the language\u2019s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library.\nThe Glossary is also worth going through.\n1. Whetting Your Appetite\n2. Using the Python Interpreter\n2.1. Invoking the Interpreter\n2.1.1. Argument Passing\n2.1.2. Interactive Mode\n2.2. The Interpreter and Its Environment\n2.2.1. Source Code Encoding\n3. An Informal Introduction to Python\n3.1. Using Python as a Calculator\n3.1.1. Numbers\n3.1.2. Text\n3.1.3. Lists\n3.2. First Steps Towards Programming\n4. More Control Flow Tools\n4.1. if Statements\n4.2. for Statements\n4.3. The range() Function\n4.4. break and continue Statements\n4.5. else Clauses on Loops\n4.6. pass Statements\n4.7. match Statements\n4.8. Defining Functions\n4.9. More on Defining Functions\n4.9.1. Default Argument Values\n4.9.2. Keyword Arguments\n4.9.3. Special parameters\n4.9.3.1. Positional-or-Keyword Arguments\n4.9.3.2. Positional-Only Parameters\n4.9.3.3. Keyword-Only Arguments\n4.9.3.4. Function Examples\n4.9.3.5. Recap\n4.9.4. Arbitrary Argument Lists\n4.9.5. Unpacking Argument Lists\n4.9.6. Lambda Expressions\n4.9.7. Documentation Strings\n4.9.8. Function Annotations\n4.10. Intermezzo: Coding Style\n5. Data Structures\n5.1. More on Lists\n5.1.1. Using Lists as Stacks\n5.1.2. Using Lists as Queues\n5.1.3. List Comprehensions\n5.1.4. Nested List Comprehensions\n5.2. The del statement\n5.3. Tuples and Sequences\n5.4. Sets\n5.5. Dictionaries\n5.6. Looping Techniques\n5.7. More on Conditions\n5.8. Comparing Sequences and Other Types\n6. Modules\n6.1. More on Modules\n6.1.1. Executing modules as scripts\n6.1.2. The Module Search Path\n6.1.3. \u201cCompiled\u201d Python files\n6.2. Standard Modules\n6.3. The dir() Function\n6.4. Packages\n6.4.1. Importing * From a Package\n6.4.2. Intra-package References\n6.4.3. Packages in Multiple Directories\n7. Input and Output\n7.1. Fancier Output Formatting\n7.1.1. Formatted String Literals\n7.1.2. The String format() Method\n7.1.3. Manual String Formatting\n7.1.4. Old string formatting\n7.2. Reading and Writing Files\n7.2.1. Methods of File Objects\n7.2.2. Saving structured data with json\n8. Errors and Exceptions\n8.1. Syntax Errors\n8.2. Exceptions\n8.3. Handling Exceptions\n8.4. Raising Exceptions\n8.5. Exception Chaining\n8.6. User-defined Exceptions\n8.7. Defining Clean-up Actions\n8.8. Predefined Clean-up Actions\n8.9. Raising and Handling Multiple Unrelated Exceptions\n8.10. Enriching Exceptions with Notes\n9. Classes\n9.1. A Word About Names and Objects\n9.2. Python Scopes and Namespaces\n9.2.1. Scopes and Namespaces Example\n9.3. A First Look at Classes\n9.3.1. Class Definition Syntax\n9.3.2. Class Objects\n9.3.3. Instance Objects\n9.3.4. Method Objects\n9.3.5. Class and Instance Variables\n9.4. Random Remarks\n9.5. Inheritance\n9.5.1. Multiple Inheritance\n9.6. Private Variables\n9.7. Odds and Ends\n9.8. Iterators\n9.9. Generators\n9.10. Generator Expressions\n10. Brief Tour of the Standard Library\n10.1. Operating System Interface\n10.2. File Wildcards\n10.3. Command Line Arguments\n10.4. Error Output Redirection and Program Termination\n10.5. String Pattern Matching\n10.6. Mathematics\n10.7. Internet Access\n10.8. Dates and Times\n10.9. Data Compression\n10.10. Performance Measurement\n10.11. Quality Control\n10.12. Batteries Included\n11. Brief Tour of the Standard Library \u2014 Part II\n11.1. Output Formatting\n11.2. Templating\n11.3. Working with Binary Data Record Layouts\n11.4. Multi-threading\n11.5. Logging\n11.6. Weak References\n11.7. Tools for Working with Lists\n11.8. Decimal Floating-Point Arithmetic\n12. Virtual Environments and Packages\n12.1. Introduction\n12.2. Creating Virtual Environments\n12.3. Managing Packages with pip\n13. What Now?\n14. Interactive Input Editing and History Substitution\n14.1. Tab Completion and History Editing\n14.2. Alternatives to the Interactive Interpreter\n15. Floating-Point Arithmetic: Issues and Limitations\n15.1. Representation Error\n16. Appendix\n16.1. Interactive Mode\n16.1.1. Error Handling\n16.1.2. Executable Python Scripts\n16.1.3. The Interactive Startup File\n16.1.4. The Customization Modules",
+      "metadata": {
+        "url": "https://docs.python.org/3/tutorial/",
+        "title": "The Python Tutorial",
+        "source": "web_scraping",
+        "navigation": "Previous topic\nChangelog\nNext topic\n1. Whetting Your Appetite\nThis page\nReport a bug\nShow source\n\u00ab",
+        "scraped_at": "2025-07-06T01:38:56.093292"
+      },
+      "chunks": 8
+    },
+    "scraped_2__3_tutorial_introduction.html": {
+      "content": "3. An Informal Introduction to Python\nIn the following examples, input and output are distinguished by the presence or absence of prompts (>>> and \u2026): to repeat the example, you must type everything after the prompt, when the prompt appears; lines that do not begin with a prompt are output from the interpreter. Note that a secondary prompt on a line by itself in an example means you must type a blank line; this is used to end a multi-line command.\nYou can use the \u201cCopy\u201d button (it appears in the upper-right corner when hovering over or tapping a code example), which strips prompts and omits output, to copy and paste the input lines into your interpreter.\nMany of the examples in this manual, even those entered at the interactive prompt, include comments. Comments in Python start with the hash character, #, and extend to the end of the physical line. A comment may appear at the start of a line or following whitespace or code, but not within a string literal. A hash character within a string literal is just a hash character. Since comments are to clarify code and are not interpreted by Python, they may be omitted when typing in examples.\nSome examples:\n# this is the first comment\nspam = 1  # and this is the second comment\n          # ... and now a third!\ntext = \"# This is not a comment because it's inside quotes.\"\n3.1. Using Python as a Calculator\nLet\u2019s try some simple Python commands. Start the interpreter and wait for the primary prompt, >>>. (It shouldn\u2019t take long.)\n3.1.1. Numbers\nThe interpreter acts as a simple calculator: you can type an expression at it and it will write the value. Expression syntax is straightforward: the operators +, -, * and / can be used to perform arithmetic; parentheses (()) can be used for grouping. For example:\n>>> 2 + 2\n4\n>>> 50 - 5*6\n20\n>>> (50 - 5*6) / 4\n5.0\n>>> 8 / 5  # division always returns a floating-point number\n1.6\nThe integer numbers (e.g. 2, 4, 20) have type int, the ones with a fractional part (e.g. 5.0, 1.6) have type float. We will see more about numeric types later in the tutorial.\nDivision (/) always returns a float. To do floor division and get an integer result you can use the // operator; to calculate the remainder you can use %:\n>>> 17 / 3  # classic division returns a float\n5.666666666666667\n>>>\n>>> 17 // 3  # floor division discards the fractional part\n5\n>>> 17 % 3  # the % operator returns the remainder of the division\n2\n>>> 5 * 3 + 2  # floored quotient * divisor + remainder\n17\nWith Python, it is possible to use the ** operator to calculate powers [1]:\n>>> 5 ** 2  # 5 squared\n25\n>>> 2 ** 7  # 2 to the power of 7\n128\nThe equal sign (=) is used to assign a value to a variable. Afterwards, no result is displayed before the next interactive prompt:\n>>> width = 20\n>>> height = 5 * 9\n>>> width * height\n900\nIf a variable is not \u201cdefined\u201d (assigned a value), trying to use it will give you an error:\n>>> n  # try to access an undefined variable\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nNameError: name 'n' is not defined\nThere is full support for floating point; operators with mixed type operands convert the integer operand to floating point:\n>>> 4 * 3.75 - 1\n14.0\nIn interactive mode, the last printed expression is assigned to the variable _. This means that when you are using Python as a desk calculator, it is somewhat easier to continue calculations, for example:\n>>> tax = 12.5 / 100\n>>> price = 100.50\n>>> price * tax\n12.5625\n>>> price + _\n113.0625\n>>> round(_, 2)\n113.06\nThis variable should be treated as read-only by the user. Don\u2019t explicitly assign a value to it \u2014 you would create an independent local variable with the same name masking the built-in variable with its magic behavior.\nIn addition to int and float, Python supports other types of numbers, such as Decimal and Fraction. Python also has built-in support for complex numbers, and uses the j or J suffix to indicate the imaginary part (e.g. 3+5j).\n3.1.2. Text\nPython can manipulate text (represented by type str, so-called \u201cstrings\u201d) as well as numbers. This includes characters \u201c!\u201d, words \u201crabbit\u201d, names \u201cParis\u201d, sentences \u201cGot your back.\u201d, etc. \u201cYay! :)\u201d. They can be enclosed in single quotes ('...') or double quotes (\"...\") with the same result [2].\n>>> 'spam eggs'  # single quotes\n'spam eggs'\n>>> \"Paris rabbit got your back :)! Yay!\"  # double quotes\n'Paris rabbit got your back :)! Yay!'\n>>> '1975'  # digits and numerals enclosed in quotes are also strings\n'1975'\nTo quote a quote, we need to \u201cescape\u201d it, by preceding it with \\. Alternatively, we can use the other type of quotation marks:\n>>> 'doesn\\'t'  # use \\' to escape the single quote...\n\"doesn't\"\n>>> \"doesn't\"  # ...or use double quotes instead\n\"doesn't\"\n>>> '\"Yes,\" they said.'\n'\"Yes,\" they said.'\n>>> \"\\\"Yes,\\\" they said.\"\n'\"Yes,\" they said.'\n>>> '\"Isn\\'t,\" they said.'\n'\"Isn\\'t,\" they said.'\nIn the Python shell, the string definition and output string can look different. The print() function produces a more readable output, by omitting the enclosing quotes and by printing escaped and special characters:\n>>> s = 'First line.\\nSecond line.'  # \\n means newline\n>>> s  # without print(), special characters are included in the string\n'First line.\\nSecond line.'\n>>> print(s)  # with print(), special characters are interpreted, so \\n produces new line\nFirst line.\nSecond line.\nIf you don\u2019t want characters prefaced by \\ to be interpreted as special characters, you can use raw strings by adding an r before the first quote:\n>>> print('C:\\some\\name')  # here \\n means newline!\nC:\\some\name\n>>> print(r'C:\\some\\name')  # note the r before the quote\nC:\\some\\name\nThere is one subtle aspect to raw strings: a raw string may not end in an odd number of \\ characters; see the FAQ entry for more information and workarounds.\nString literals can span multiple lines. One way is using triple-quotes: \"\"\"...\"\"\" or '''...'''. End-of-line characters are automatically included in the string, but it\u2019s possible to prevent this by adding a \\ at the end of the line. In the following example, the initial newline is not included:\n>>> print(\"\"\"\\\n... Usage: thingy [OPTIONS]\n...      -h                        Display this usage message\n...      -H hostname               Hostname to connect to\n... \"\"\")\nUsage: thingy [OPTIONS]\n     -h                        Display this usage message\n     -H hostname               Hostname to connect to\n\n>>>\nStrings can be concatenated (glued together) with the + operator, and repeated with *:\n>>> # 3 times 'un', followed by 'ium'\n>>> 3 * 'un' + 'ium'\n'unununium'\nTwo or more string literals (i.e. the ones enclosed between quotes) next to each other are automatically concatenated.\n>>> 'Py' 'thon'\n'Python'\nThis feature is particularly useful when you want to break long strings:\n>>> text = ('Put several strings within parentheses '\n...         'to have them joined together.')\n>>> text\n'Put several strings within parentheses to have them joined together.'\nThis only works with two literals though, not with variables or expressions:\n>>> prefix = 'Py'\n>>> prefix 'thon'  # can't concatenate a variable and a string literal\n  File \"<stdin>\", line 1\n    prefix 'thon'\n           ^^^^^^\nSyntaxError: invalid syntax\n>>> ('un' * 3) 'ium'\n  File \"<stdin>\", line 1\n    ('un' * 3) 'ium'\n               ^^^^^\nSyntaxError: invalid syntax\nIf you want to concatenate variables or a variable and a literal, use +:\n>>> prefix + 'thon'\n'Python'\nStrings can be indexed (subscripted), with the first character having index 0. There is no separate character type; a character is simply a string of size one:\n>>> word = 'Python'\n>>> word[0]  # character in position 0\n'P'\n>>> word[5]  # character in position 5\n'n'\nIndices may also be negative numbers, to start counting from the right:\n>>> word[-1]  # last character\n'n'\n>>> word[-2]  # second-last character\n'o'\n>>> word[-6]\n'P'\nNote that since -0 is the same as 0, negative indices start from -1.\nIn addition to indexing, slicing is also supported. While indexing is used to obtain individual characters, slicing allows you to obtain a substring:\n>>> word[0:2]  # characters from position 0 (included) to 2 (excluded)\n'Py'\n>>> word[2:5]  # characters from position 2 (included) to 5 (excluded)\n'tho'\nSlice indices have useful defaults; an omitted first index defaults to zero, an omitted second index defaults to the size of the string being sliced.\n>>> word[:2]   # character from the beginning to position 2 (excluded)\n'Py'\n>>> word[4:]   # characters from position 4 (included) to the end\n'on'\n>>> word[-2:]  # characters from the second-last (included) to the end\n'on'\nNote how the start is always included, and the end always excluded. This makes sure that s[:i] + s[i:] is always equal to s:\n>>> word[:2] + word[2:]\n'Python'\n>>> word[:4] + word[4:]\n'Python'\nOne way to remember how slices work is to think of the indices as pointing between characters, with the left edge of the first character numbered 0. Then the right edge of the last character of a string of n characters has index n, for example:\n +---+---+---+---+---+---+\n | P | y | t | h | o | n |\n +---+---+---+---+---+---+\n 0   1   2   3   4   5   6\n-6  -5  -4  -3  -2  -1\nThe first row of numbers gives the position of the indices 0\u20266 in the string; the second row gives the corresponding negative indices. The slice from i to j consists of all characters between the edges labeled i and j, respectively.\nFor non-negative indices, the length of a slice is the difference of the indices, if both are within bounds. For example, the length of word[1:3] is 2.\nAttempting to use an index that is too large will result in an error:\n>>> word[42]  # the word only has 6 characters\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nIndexError: string index out of range\nHowever, out of range slice indexes are handled gracefully when used for slicing:\n>>> word[4:42]\n'on'\n>>> word[42:]\n''\nPython strings cannot be changed \u2014 they are immutable. Therefore, assigning to an indexed position in the string results in an error:\n>>> word[0] = 'J'\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nTypeError: 'str' object does not support item assignment\n>>> word[2:] = 'py'\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nTypeError: 'str' object does not support item assignment\nIf you need a different string, you should create a new one:\n>>> 'J' + word[1:]\n'Jython'\n>>> word[:2] + 'py'\n'Pypy'\nThe built-in function len() returns the length of a string:\n>>> s = 'supercalifragilisticexpialidocious'\n>>> len(s)\n34\nSee also\nText Sequence Type \u2014 str\nStrings are examples of sequence types, and support the common operations supported by such types.\nString Methods\nStrings support a large number of methods for basic transformations and searching.\nf-strings\nString literals that have embedded expressions.\nFormat String Syntax\nInformation about string formatting with str.format().\nprintf-style String Formatting\nThe old formatting operations invoked when strings are the left operand of the % operator are described in more detail here.\n3.1.3. Lists\nPython knows a number of compound data types, used to group together other values. The most versatile is the list, which can be written as a list of comma-separated values (items) between square brackets. Lists might contain items of different types, but usually the items all have the same type.\n>>> squares = [1, 4, 9, 16, 25]\n>>> squares\n[1, 4, 9, 16, 25]\nLike strings (and all other built-in sequence types), lists can be indexed and sliced:\n>>> squares[0]  # indexing returns the item\n1\n>>> squares[-1]\n25\n>>> squares[-3:]  # slicing returns a new list\n[9, 16, 25]\nLists also support operations like concatenation:\n>>> squares + [36, 49, 64, 81, 100]\n[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]\nUnlike strings, which are immutable, lists are a mutable type, i.e. it is possible to change their content:\n>>> cubes = [1, 8, 27, 65, 125]  # something's wrong here\n>>> 4 ** 3  # the cube of 4 is 64, not 65!\n64\n>>> cubes[3] = 64  # replace the wrong value\n>>> cubes\n[1, 8, 27, 64, 125]\nYou can also add new items at the end of the list, by using the list.append() method (we will see more about methods later):\n>>> cubes.append(216)  # add the cube of 6\n>>> cubes.append(7 ** 3)  # and the cube of 7\n>>> cubes\n[1, 8, 27, 64, 125, 216, 343]\nSimple assignment in Python never copies data. When you assign a list to a variable, the variable refers to the existing list. Any changes you make to the list through one variable will be seen through all other variables that refer to it.:\n>>> rgb = [\"Red\", \"Green\", \"Blue\"]\n>>> rgba = rgb\n>>> id(rgb) == id(rgba)  # they reference the same object\nTrue\n>>> rgba.append(\"Alph\")\n>>> rgb\n[\"Red\", \"Green\", \"Blue\", \"Alph\"]\nAll slice operations return a new list containing the requested elements. This means that the following slice returns a shallow copy of the list:\n>>> correct_rgba = rgba[:]\n>>> correct_rgba[-1] = \"Alpha\"\n>>> correct_rgba\n[\"Red\", \"Green\", \"Blue\", \"Alpha\"]\n>>> rgba\n[\"Red\", \"Green\", \"Blue\", \"Alph\"]\nAssignment to slices is also possible, and this can even change the size of the list or clear it entirely:\n>>> letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']\n>>> letters\n['a', 'b', 'c', 'd', 'e', 'f', 'g']\n>>> # replace some values\n>>> letters[2:5] = ['C', 'D', 'E']\n>>> letters\n['a', 'b', 'C', 'D', 'E', 'f', 'g']\n>>> # now remove them\n>>> letters[2:5] = []\n>>> letters\n['a', 'b', 'f', 'g']\n>>> # clear the list by replacing all the elements with an empty list\n>>> letters[:] = []\n>>> letters\n[]\nThe built-in function len() also applies to lists:\n>>> letters = ['a', 'b', 'c', 'd']\n>>> len(letters)\n4\nIt is possible to nest lists (create lists containing other lists), for example:\n>>> a = ['a', 'b', 'c']\n>>> n = [1, 2, 3]\n>>> x = [a, n]\n>>> x\n[['a', 'b', 'c'], [1, 2, 3]]\n>>> x[0]\n['a', 'b', 'c']\n>>> x[0][1]\n'b'\n3.2. First Steps Towards Programming\nOf course, we can use Python for more complicated tasks than adding two and two together. For instance, we can write an initial sub-sequence of the Fibonacci series as follows:\n>>> # Fibonacci series:\n>>> # the sum of two elements defines the next\n>>> a, b = 0, 1\n>>> while a < 10:\n...     print(a)\n...     a, b = b, a+b\n...\n0\n1\n1\n2\n3\n5\n8\nThis example introduces several new features.\nThe first line contains a multiple assignment: the variables a and b simultaneously get the new values 0 and 1. On the last line this is used again, demonstrating that the expressions on the right-hand side are all evaluated first before any of the assignments take place. The right-hand side expressions are evaluated from the left to the right.\nThe while loop executes as long as the condition (here: a < 10) remains true. In Python, like in C, any non-zero integer value is true; zero is false. The condition may also be a string or list value, in fact any sequence; anything with a non-zero length is true, empty sequences are false. The test used in the example is a simple comparison. The standard comparison operators are written the same as in C: < (less than), > (greater than), == (equal to), <= (less than or equal to), >= (greater than or equal to) and != (not equal to).\nThe body of the loop is indented: indentation is Python\u2019s way of grouping statements. At the interactive prompt, you have to type a tab or space(s) for each indented line. In practice you will prepare more complicated input for Python with a text editor; all decent text editors have an auto-indent facility. When a compound statement is entered interactively, it must be followed by a blank line to indicate completion (since the parser cannot guess when you have typed the last line). Note that each line within a basic block must be indented by the same amount.\nThe print() function writes the value of the argument(s) it is given. It differs from just writing the expression you want to write (as we did earlier in the calculator examples) in the way it handles multiple arguments, floating-point quantities, and strings. Strings are printed without quotes, and a space is inserted between items, so you can format things nicely, like this:\n>>> i = 256*256\n>>> print('The value of i is', i)\nThe value of i is 65536\nThe keyword argument end can be used to avoid the newline after the output, or end the output with a different string:\n>>> a, b = 0, 1\n>>> while a < 1000:\n...     print(a, end=',')\n...     a, b = b, a+b\n...\n0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,\nFootnotes\n[1]\nSince ** has higher precedence than -, -3**2 will be interpreted as -(3**2) and thus result in -9. To avoid this and get 9, you can use (-3)**2.\n[2]\nUnlike other languages, special characters such as \\n have the same meaning with both single ('...') and double (\"...\") quotes. The only difference between the two is that within single quotes you don\u2019t need to escape \" (but you have to escape \\') and vice versa.",
+      "metadata": {
+        "url": "https://docs.python.org/3/tutorial/introduction.html",
+        "title": "3. An Informal Introduction to Python",
+        "source": "web_scraping",
+        "navigation": "Table of Contents\n3. An Informal Introduction to Python\n3.1. Using Python as a Calculator\n3.1.1. Numbers\n3.1.2. Text\n3.1.3. Lists\n3.2. First Steps Towards Programming\nPrevious topic\n2. Using the Python Interpreter\nNext topic\n4. More Control Flow Tools\nThis page\nReport a bug\nShow source\n\u00ab",
+        "scraped_at": "2025-07-06T01:38:57.475482"
+      },
+      "chunks": 22
+    },
+    "scraped_3__3_tutorial_controlflow.html": {
+      "content": "4. More Control Flow Tools\nAs well as the while statement just introduced, Python uses a few more that we will encounter in this chapter.\n4.1. if Statements\nPerhaps the most well-known statement type is the if statement. For example:\n>>> x = int(input(\"Please enter an integer: \"))\nPlease enter an integer: 42\n>>> if x < 0:\n...     x = 0\n...     print('Negative changed to zero')\n... elif x == 0:\n...     print('Zero')\n... elif x == 1:\n...     print('Single')\n... else:\n...     print('More')\n...\nMore\nThere can be zero or more elif parts, and the else part is optional. The keyword \u2018elif\u2019 is short for \u2018else if\u2019, and is useful to avoid excessive indentation. An if \u2026 elif \u2026 elif \u2026 sequence is a substitute for the switch or case statements found in other languages.\nIf you\u2019re comparing the same value to several constants, or checking for specific types or attributes, you may also find the match statement useful. For more details see match Statements.\n4.2. for Statements\nThe for statement in Python differs a bit from what you may be used to in C or Pascal. Rather than always iterating over an arithmetic progression of numbers (like in Pascal), or giving the user the ability to define both the iteration step and halting condition (as C), Python\u2019s for statement iterates over the items of any sequence (a list or a string), in the order that they appear in the sequence. For example (no pun intended):\n>>> # Measure some strings:\n>>> words = ['cat', 'window', 'defenestrate']\n>>> for w in words:\n...     print(w, len(w))\n...\ncat 3\nwindow 6\ndefenestrate 12\nCode that modifies a collection while iterating over that same collection can be tricky to get right. Instead, it is usually more straight-forward to loop over a copy of the collection or to create a new collection:\n# Create a sample collection\nusers = {'Hans': 'active', '\u00c9l\u00e9onore': 'inactive', '\u666f\u592a\u90ce': 'active'}\n\n# Strategy:  Iterate over a copy\nfor user, status in users.copy().items():\n    if status == 'inactive':\n        del users[user]\n\n# Strategy:  Create a new collection\nactive_users = {}\nfor user, status in users.items():\n    if status == 'active':\n        active_users[user] = status\n4.3. The range() Function\nIf you do need to iterate over a sequence of numbers, the built-in function range() comes in handy. It generates arithmetic progressions:\n>>> for i in range(5):\n...     print(i)\n...\n0\n1\n2\n3\n4\nThe given end point is never part of the generated sequence; range(10) generates 10 values, the legal indices for items of a sequence of length 10. It is possible to let the range start at another number, or to specify a different increment (even negative; sometimes this is called the \u2018step\u2019):\n>>> list(range(5, 10))\n[5, 6, 7, 8, 9]\n\n>>> list(range(0, 10, 3))\n[0, 3, 6, 9]\n\n>>> list(range(-10, -100, -30))\n[-10, -40, -70]\nTo iterate over the indices of a sequence, you can combine range() and len() as follows:\n>>> a = ['Mary', 'had', 'a', 'little', 'lamb']\n>>> for i in range(len(a)):\n...     print(i, a[i])\n...\n0 Mary\n1 had\n2 a\n3 little\n4 lamb\nIn most such cases, however, it is convenient to use the enumerate() function, see Looping Techniques.\nA strange thing happens if you just print a range:\n>>> range(10)\nrange(0, 10)\nIn many ways the object returned by range() behaves as if it is a list, but in fact it isn\u2019t. It is an object which returns the successive items of the desired sequence when you iterate over it, but it doesn\u2019t really make the list, thus saving space.\nWe say such an object is iterable, that is, suitable as a target for functions and constructs that expect something from which they can obtain successive items until the supply is exhausted. We have seen that the for statement is such a construct, while an example of a function that takes an iterable is sum():\n>>> sum(range(4))  # 0 + 1 + 2 + 3\n6\nLater we will see more functions that return iterables and take iterables as arguments. In chapter Data Structures, we will discuss in more detail about list().\n4.4. break and continue Statements\nThe break statement breaks out of the innermost enclosing for or while loop:\n>>> for n in range(2, 10):\n...     for x in range(2, n):\n...         if n % x == 0:\n...             print(f\"{n} equals {x} * {n//x}\")\n...             break\n...\n4 equals 2 * 2\n6 equals 2 * 3\n8 equals 2 * 4\n9 equals 3 * 3\nThe continue statement continues with the next iteration of the loop:\n>>> for num in range(2, 10):\n...     if num % 2 == 0:\n...         print(f\"Found an even number {num}\")\n...         continue\n...     print(f\"Found an odd number {num}\")\n...\nFound an even number 2\nFound an odd number 3\nFound an even number 4\nFound an odd number 5\nFound an even number 6\nFound an odd number 7\nFound an even number 8\nFound an odd number 9\n4.5. else Clauses on Loops\nIn a for or while loop the break statement may be paired with an else clause. If the loop finishes without executing the break, the else clause executes.\nIn a for loop, the else clause is executed after the loop finishes its final iteration, that is, if no break occurred.\nIn a while loop, it\u2019s executed after the loop\u2019s condition becomes false.\nIn either kind of loop, the else clause is not executed if the loop was terminated by a break. Of course, other ways of ending the loop early, such as a return or a raised exception, will also skip execution of the else clause.\nThis is exemplified in the following for loop, which searches for prime numbers:\n>>> for n in range(2, 10):\n...     for x in range(2, n):\n...         if n % x == 0:\n...             print(n, 'equals', x, '*', n//x)\n...             break\n...     else:\n...         # loop fell through without finding a factor\n...         print(n, 'is a prime number')\n...\n2 is a prime number\n3 is a prime number\n4 equals 2 * 2\n5 is a prime number\n6 equals 2 * 3\n7 is a prime number\n8 equals 2 * 4\n9 equals 3 * 3\n(Yes, this is the correct code. Look closely: the else clause belongs to the for loop, not the if statement.)\nOne way to think of the else clause is to imagine it paired with the if inside the loop. As the loop executes, it will run a sequence like if/if/if/else. The if is inside the loop, encountered a number of times. If the condition is ever true, a break will happen. If the condition is never true, the else clause outside the loop will execute.\nWhen used with a loop, the else clause has more in common with the else clause of a try statement than it does with that of if statements: a try statement\u2019s else clause runs when no exception occurs, and a loop\u2019s else clause runs when no break occurs. For more on the try statement and exceptions, see Handling Exceptions.\n4.6. pass Statements\nThe pass statement does nothing. It can be used when a statement is required syntactically but the program requires no action. For example:\n>>> while True:\n...     pass  # Busy-wait for keyboard interrupt (Ctrl+C)\n...\nThis is commonly used for creating minimal classes:\n>>> class MyEmptyClass:\n...     pass\n...\nAnother place pass can be used is as a place-holder for a function or conditional body when you are working on new code, allowing you to keep thinking at a more abstract level. The pass is silently ignored:\n>>> def initlog(*args):\n...     pass   # Remember to implement this!\n...\n4.7. match Statements\nA match statement takes an expression and compares its value to successive patterns given as one or more case blocks. This is superficially similar to a switch statement in C, Java or JavaScript (and many other languages), but it\u2019s more similar to pattern matching in languages like Rust or Haskell. Only the first pattern that matches gets executed and it can also extract components (sequence elements or object attributes) from the value into variables.\nThe simplest form compares a subject value against one or more literals:\ndef http_error(status):\n    match status:\n        case 400:\n            return \"Bad request\"\n        case 404:\n            return \"Not found\"\n        case 418:\n            return \"I'm a teapot\"\n        case _:\n            return \"Something's wrong with the internet\"\nNote the last block: the \u201cvariable name\u201d _ acts as a wildcard and never fails to match. If no case matches, none of the branches is executed.\nYou can combine several literals in a single pattern using | (\u201cor\u201d):\ncase 401 | 403 | 404:\n    return \"Not allowed\"\nPatterns can look like unpacking assignments, and can be used to bind variables:\n# point is an (x, y) tuple\nmatch point:\n    case (0, 0):\n        print(\"Origin\")\n    case (0, y):\n        print(f\"Y={y}\")\n    case (x, 0):\n        print(f\"X={x}\")\n    case (x, y):\n        print(f\"X={x}, Y={y}\")\n    case _:\n        raise ValueError(\"Not a point\")\nStudy that one carefully! The first pattern has two literals, and can be thought of as an extension of the literal pattern shown above. But the next two patterns combine a literal and a variable, and the variable binds a value from the subject (point). The fourth pattern captures two values, which makes it conceptually similar to the unpacking assignment (x, y) = point.\nIf you are using classes to structure your data you can use the class name followed by an argument list resembling a constructor, but with the ability to capture attributes into variables:\nclass Point:\n    def __init__(self, x, y):\n        self.x = x\n        self.y = y\n\ndef where_is(point):\n    match point:\n        case Point(x=0, y=0):\n            print(\"Origin\")\n        case Point(x=0, y=y):\n            print(f\"Y={y}\")\n        case Point(x=x, y=0):\n            print(f\"X={x}\")\n        case Point():\n            print(\"Somewhere else\")\n        case _:\n            print(\"Not a point\")\nYou can use positional parameters with some builtin classes that provide an ordering for their attributes (e.g. dataclasses). You can also define a specific position for attributes in patterns by setting the __match_args__ special attribute in your classes. If it\u2019s set to (\u201cx\u201d, \u201cy\u201d), the following patterns are all equivalent (and all bind the y attribute to the var variable):\nPoint(1, var)\nPoint(1, y=var)\nPoint(x=1, y=var)\nPoint(y=var, x=1)\nA recommended way to read patterns is to look at them as an extended form of what you would put on the left of an assignment, to understand which variables would be set to what. Only the standalone names (like var above) are assigned to by a match statement. Dotted names (like foo.bar), attribute names (the x= and y= above) or class names (recognized by the \u201c(\u2026)\u201d next to them like Point above) are never assigned to.\nPatterns can be arbitrarily nested. For example, if we have a short list of Points, with __match_args__ added, we could match it like this:\nclass Point:\n    __match_args__ = ('x', 'y')\n    def __init__(self, x, y):\n        self.x = x\n        self.y = y\n\nmatch points:\n    case []:\n        print(\"No points\")\n    case [Point(0, 0)]:\n        print(\"The origin\")\n    case [Point(x, y)]:\n        print(f\"Single point {x}, {y}\")\n    case [Point(0, y1), Point(0, y2)]:\n        print(f\"Two on the Y axis at {y1}, {y2}\")\n    case _:\n        print(\"Something else\")\nWe can add an if clause to a pattern, known as a \u201cguard\u201d. If the guard is false, match goes on to try the next case block. Note that value capture happens before the guard is evaluated:\nmatch point:\n    case Point(x, y) if x == y:\n        print(f\"Y=X at {x}\")\n    case Point(x, y):\n        print(f\"Not on the diagonal\")\nSeveral other key features of this statement:\nLike unpacking assignments, tuple and list patterns have exactly the same meaning and actually match arbitrary sequences. An important exception is that they don\u2019t match iterators or strings.\nSequence patterns support extended unpacking: [x, y, *rest] and (x, y, *rest) work similar to unpacking assignments. The name after * may also be _, so (x, y, *_) matches a sequence of at least two items without binding the remaining items.\nMapping patterns: {\"bandwidth\": b, \"latency\": l} captures the \"bandwidth\" and \"latency\" values from a dictionary. Unlike sequence patterns, extra keys are ignored. An unpacking like **rest is also supported. (But **_ would be redundant, so it is not allowed.)\nSubpatterns may be captured using the as keyword:\ncase (Point(x1, y1), Point(x2, y2) as p2): ...\nwill capture the second element of the input as p2 (as long as the input is a sequence of two points)\nMost literals are compared by equality, however the singletons True, False and None are compared by identity.\nPatterns may use named constants. These must be dotted names to prevent them from being interpreted as capture variable:\nfrom enum import Enum\nclass Color(Enum):\n    RED = 'red'\n    GREEN = 'green'\n    BLUE = 'blue'\n\ncolor = Color(input(\"Enter your choice of 'red', 'blue' or 'green': \"))\n\nmatch color:\n    case Color.RED:\n        print(\"I see red!\")\n    case Color.GREEN:\n        print(\"Grass is green\")\n    case Color.BLUE:\n        print(\"I'm feeling the blues :(\")\nFor a more detailed explanation and additional examples, you can look into PEP 636 which is written in a tutorial format.\n4.8. Defining Functions\nWe can create a function that writes the Fibonacci series to an arbitrary boundary:\n>>> def fib(n):    # write Fibonacci series less than n\n...     \"\"\"Print a Fibonacci series less than n.\"\"\"\n...     a, b = 0, 1\n...     while a < n:\n...         print(a, end=' ')\n...         a, b = b, a+b\n...     print()\n...\n>>> # Now call the function we just defined:\n>>> fib(2000)\n0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597\nThe keyword def introduces a function definition. It must be followed by the function name and the parenthesized list of formal parameters. The statements that form the body of the function start at the next line, and must be indented.\nThe first statement of the function body can optionally be a string literal; this string literal is the function\u2019s documentation string, or docstring. (More about docstrings can be found in the section Documentation Strings.) There are tools which use docstrings to automatically produce online or printed documentation, or to let the user interactively browse through code; it\u2019s good practice to include docstrings in code that you write, so make a habit of it.\nThe execution of a function introduces a new symbol table used for the local variables of the function. More precisely, all variable assignments in a function store the value in the local symbol table; whereas variable references first look in the local symbol table, then in the local symbol tables of enclosing functions, then in the global symbol table, and finally in the table of built-in names. Thus, global variables and variables of enclosing functions cannot be directly assigned a value within a function (unless, for global variables, named in a global statement, or, for variables of enclosing functions, named in a nonlocal statement), although they may be referenced.\nThe actual parameters (arguments) to a function call are introduced in the local symbol table of the called function when it is called; thus, arguments are passed using call by value (where the value is always an object reference, not the value of the object). [1] When a function calls another function, or calls itself recursively, a new local symbol table is created for that call.\nA function definition associates the function name with the function object in the current symbol table. The interpreter recognizes the object pointed to by that name as a user-defined function. Other names can also point to that same function object and can also be used to access the function:\n>>> fib\n<function fib at 10042ed0>\n>>> f = fib\n>>> f(100)\n0 1 1 2 3 5 8 13 21 34 55 89\nComing from other languages, you might object that fib is not a function but a procedure since it doesn\u2019t return a value. In fact, even functions without a return statement do return a value, albeit a rather boring one. This value is called None (it\u2019s a built-in name). Writing the value None is normally suppressed by the interpreter if it would be the only value written. You can see it if you really want to using print():\n>>> fib(0)\n>>> print(fib(0))\nNone\nIt is simple to write a function that returns a list of the numbers of the Fibonacci series, instead of printing it:\n>>> def fib2(n):  # return Fibonacci series up to n\n...     \"\"\"Return a list containing the Fibonacci series up to n.\"\"\"\n...     result = []\n...     a, b = 0, 1\n...     while a < n:\n...         result.append(a)    # see below\n...         a, b = b, a+b\n...     return result\n...\n>>> f100 = fib2(100)    # call it\n>>> f100                # write the result\n[0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]\nThis example, as usual, demonstrates some new Python features:\nThe return statement returns with a value from a function. return without an expression argument returns None. Falling off the end of a function also returns None.\nThe statement result.append(a) calls a method of the list object result. A method is a function that \u2018belongs\u2019 to an object and is named obj.methodname, where obj is some object (this may be an expression), and methodname is the name of a method that is defined by the object\u2019s type. Different types define different methods. Methods of different types may have the same name without causing ambiguity. (It is possible to define your own object types and methods, using classes, see Classes) The method append() shown in the example is defined for list objects; it adds a new element at the end of the list. In this example it is equivalent to result = result + [a], but more efficient.\n4.9. More on Defining Functions\nIt is also possible to define functions with a variable number of arguments. There are three forms, which can be combined.\n4.9.1. Default Argument Values\nThe most useful form is to specify a default value for one or more arguments. This creates a function that can be called with fewer arguments than it is defined to allow. For example:\ndef ask_ok(prompt, retries=4, reminder='Please try again!'):\n    while True:\n        reply = input(prompt)\n        if reply in {'y', 'ye', 'yes'}:\n            return True\n        if reply in {'n', 'no', 'nop', 'nope'}:\n            return False\n        retries = retries - 1\n        if retries < 0:\n            raise ValueError('invalid user response')\n        print(reminder)\nThis function can be called in several ways:\ngiving only the mandatory argument: ask_ok('Do you really want to quit?')\ngiving one of the optional arguments: ask_ok('OK to overwrite the file?', 2)\nor even giving all arguments: ask_ok('OK to overwrite the file?', 2, 'Come on, only yes or no!')\nThis example also introduces the in keyword. This tests whether or not a sequence contains a certain value.\nThe default values are evaluated at the point of function definition in the defining scope, so that\ni = 5\n\ndef f(arg=i):\n    print(arg)\n\ni = 6\nf()\nwill print 5.\nImportant warning: The default value is evaluated only once. This makes a difference when the default is a mutable object such as a list, dictionary, or instances of most classes. For example, the following function accumulates the arguments passed to it on subsequent calls:\ndef f(a, L=[]):\n    L.append(a)\n    return L\n\nprint(f(1))\nprint(f(2))\nprint(f(3))\nThis will print\n[1]\n[1, 2]\n[1, 2, 3]\nIf you don\u2019t want the default to be shared between subsequent calls, you can write the function like this instead:\ndef f(a, L=None):\n    if L is None:\n        L = []\n    L.append(a)\n    return L\n4.9.2. Keyword Arguments\nFunctions can also be called using keyword arguments of the form kwarg=value. For instance, the following function:\ndef parrot(voltage, state='a stiff', action='voom', type='Norwegian Blue'):\n    print(\"-- This parrot wouldn't\", action, end=' ')\n    print(\"if you put\", voltage, \"volts through it.\")\n    print(\"-- Lovely plumage, the\", type)\n    print(\"-- It's\", state, \"!\")\naccepts one required argument (voltage) and three optional arguments (state, action, and type). This function can be called in any of the following ways:\nparrot(1000)                                          # 1 positional argument\nparrot(voltage=1000)                                  # 1 keyword argument\nparrot(voltage=1000000, action='VOOOOOM')             # 2 keyword arguments\nparrot(action='VOOOOOM', voltage=1000000)             # 2 keyword arguments\nparrot('a million', 'bereft of life', 'jump')         # 3 positional arguments\nparrot('a thousand', state='pushing up the daisies')  # 1 positional, 1 keyword\nbut all the following calls would be invalid:\nparrot()                     # required argument missing\nparrot(voltage=5.0, 'dead')  # non-keyword argument after a keyword argument\nparrot(110, voltage=220)     # duplicate value for the same argument\nparrot(actor='John Cleese')  # unknown keyword argument\nIn a function call, keyword arguments must follow positional arguments. All the keyword arguments passed must match one of the arguments accepted by the function (e.g. actor is not a valid argument for the parrot function), and their order is not important. This also includes non-optional arguments (e.g. parrot(voltage=1000) is valid too). No argument may receive a value more than once. Here\u2019s an example that fails due to this restriction:\n>>> def function(a):\n...     pass\n...\n>>> function(0, a=0)\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nTypeError: function() got multiple values for argument 'a'\nWhen a final formal parameter of the form **name is present, it receives a dictionary (see Mapping Types \u2014 dict) containing all keyword arguments except for those corresponding to a formal parameter. This may be combined with a formal parameter of the form *name (described in the next subsection) which receives a tuple containing the positional arguments beyond the formal parameter list. (*name must occur before **name.) For example, if we define a function like this:\ndef cheeseshop(kind, *arguments, **keywords):\n    print(\"-- Do you have any\", kind, \"?\")\n    print(\"-- I'm sorry, we're all out of\", kind)\n    for arg in arguments:\n        print(arg)\n    print(\"-\" * 40)\n    for kw in keywords:\n        print(kw, \":\", keywords[kw])\nIt could be called like this:\ncheeseshop(\"Limburger\", \"It's very runny, sir.\",\n           \"It's really very, VERY runny, sir.\",\n           shopkeeper=\"Michael Palin\",\n           client=\"John Cleese\",\n           sketch=\"Cheese Shop Sketch\")\nand of course it would print:\n-- Do you have any Limburger ?\n-- I'm sorry, we're all out of Limburger\nIt's very runny, sir.\nIt's really very, VERY runny, sir.\n----------------------------------------\nshopkeeper : Michael Palin\nclient : John Cleese\nsketch : Cheese Shop Sketch\nNote that the order in which the keyword arguments are printed is guaranteed to match the order in which they were provided in the function call.\n4.9.3. Special parameters\nBy default, arguments may be passed to a Python function either by position or explicitly by keyword. For readability and performance, it makes sense to restrict the way arguments can be passed so that a developer need only look at the function definition to determine if items are passed by position, by position or keyword, or by keyword.\nA function definition may look like:\ndef f(pos1, pos2, /, pos_or_kwd, *, kwd1, kwd2):\n      -----------    ----------     ----------\n        |             |                  |\n        |        Positional or keyword   |\n        |                                - Keyword only\n         -- Positional only\nwhere / and * are optional. If used, these symbols indicate the kind of parameter by how the arguments may be passed to the function: positional-only, positional-or-keyword, and keyword-only. Keyword parameters are also referred to as named parameters.\n4.9.3.1. Positional-or-Keyword Arguments\nIf / and * are not present in the function definition, arguments may be passed to a function by position or by keyword.\n4.9.3.2. Positional-Only Parameters\nLooking at this in a bit more detail, it is possible to mark certain parameters as positional-only. If positional-only, the parameters\u2019 order matters, and the parameters cannot be passed by keyword. Positional-only parameters are placed before a / (forward-slash). The / is used to logically separate the positional-only parameters from the rest of the parameters. If there is no / in the function definition, there are no positional-only parameters.\nParameters following the / may be positional-or-keyword or keyword-only.\n4.9.3.3. Keyword-Only Arguments\nTo mark parameters as keyword-only, indicating the parameters must be passed by keyword argument, place an * in the arguments list just before the first keyword-only parameter.\n4.9.3.4. Function Examples\nConsider the following example function definitions paying close attention to the markers / and *:\n>>> def standard_arg(arg):\n...     print(arg)\n...\n>>> def pos_only_arg(arg, /):\n...     print(arg)\n...\n>>> def kwd_only_arg(*, arg):\n...     print(arg)\n...\n>>> def combined_example(pos_only, /, standard, *, kwd_only):\n...     print(pos_only, standard, kwd_only)\nThe first function definition, standard_arg, the most familiar form, places no restrictions on the calling convention and arguments may be passed by position or keyword:\n>>> standard_arg(2)\n2\n\n>>> standard_arg(arg=2)\n2\nThe second function pos_only_arg is restricted to only use positional parameters as there is a / in the function definition:\n>>> pos_only_arg(1)\n1\n\n>>> pos_only_arg(arg=1)\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nTypeError: pos_only_arg() got some positional-only arguments passed as keyword arguments: 'arg'\nThe third function kwd_only_arg only allows keyword arguments as indicated by a * in the function definition:\n>>> kwd_only_arg(3)\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nTypeError: kwd_only_arg() takes 0 positional arguments but 1 was given\n\n>>> kwd_only_arg(arg=3)\n3\nAnd the last uses all three calling conventions in the same function definition:\n>>> combined_example(1, 2, 3)\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nTypeError: combined_example() takes 2 positional arguments but 3 were given\n\n>>> combined_example(1, 2, kwd_only=3)\n1 2 3\n\n>>> combined_example(1, standard=2, kwd_only=3)\n1 2 3\n\n>>> combined_example(pos_only=1, standard=2, kwd_only=3)\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nTypeError: combined_example() got some positional-only arguments passed as keyword arguments: 'pos_only'\nFinally, consider this function definition which has a potential collision between the positional argument name and **kwds which has name as a key:\ndef foo(name, **kwds):\n    return 'name' in kwds\nThere is no possible call that will make it return True as the keyword 'name' will always bind to the first parameter. For example:\n>>> foo(1, **{'name': 2})\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nTypeError: foo() got multiple values for argument 'name'\n>>>\nBut using / (positional only arguments), it is possible since it allows name as a positional argument and 'name' as a key in the keyword arguments:\n>>> def foo(name, /, **kwds):\n...     return 'name' in kwds\n...\n>>> foo(1, **{'name': 2})\nTrue\nIn other words, the names of positional-only parameters can be used in **kwds without ambiguity.\n4.9.3.5. Recap\nThe use case will determine which parameters to use in the function definition:\ndef f(pos1, pos2, /, pos_or_kwd, *, kwd1, kwd2):\nAs guidance:\nUse positional-only if you want the name of the parameters to not be available to the user. This is useful when parameter names have no real meaning, if you want to enforce the order of the arguments when the function is called or if you need to take some positional parameters and arbitrary keywords.\nUse keyword-only when names have meaning and the function definition is more understandable by being explicit with names or you want to prevent users relying on the position of the argument being passed.\nFor an API, use positional-only to prevent breaking API changes if the parameter\u2019s name is modified in the future.\n4.9.4. Arbitrary Argument Lists\nFinally, the least frequently used option is to specify that a function can be called with an arbitrary number of arguments. These arguments will be wrapped up in a tuple (see Tuples and Sequences). Before the variable number of arguments, zero or more normal arguments may occur.\ndef write_multiple_items(file, separator, *args):\n    file.write(separator.join(args))\nNormally, these variadic arguments will be last in the list of formal parameters, because they scoop up all remaining input arguments that are passed to the function. Any formal parameters which occur after the *args parameter are \u2018keyword-only\u2019 arguments, meaning that they can only be used as keywords rather than positional arguments.\n>>> def concat(*args, sep=\"/\"):\n...     return sep.join(args)\n...\n>>> concat(\"earth\", \"mars\", \"venus\")\n'earth/mars/venus'\n>>> concat(\"earth\", \"mars\", \"venus\", sep=\".\")\n'earth.mars.venus'\n4.9.5. Unpacking Argument Lists\nThe reverse situation occurs when the arguments are already in a list or tuple but need to be unpacked for a function call requiring separate positional arguments. For instance, the built-in range() function expects separate start and stop arguments. If they are not available separately, write the function call with the *-operator to unpack the arguments out of a list or tuple:\n>>> list(range(3, 6))            # normal call with separate arguments\n[3, 4, 5]\n>>> args = [3, 6]\n>>> list(range(*args))            # call with arguments unpacked from a list\n[3, 4, 5]\nIn the same fashion, dictionaries can deliver keyword arguments with the **-operator:\n>>> def parrot(voltage, state='a stiff', action='voom'):\n...     print(\"-- This parrot wouldn't\", action, end=' ')\n...     print(\"if you put\", voltage, \"volts through it.\", end=' ')\n...     print(\"E's\", state, \"!\")\n...\n>>> d = {\"voltage\": \"four million\", \"state\": \"bleedin' demised\", \"action\": \"VOOM\"}\n>>> parrot(**d)\n-- This parrot wouldn't VOOM if you put four million volts through it. E's bleedin' demised !\n4.9.6. Lambda Expressions\nSmall anonymous functions can be created with the lambda keyword. This function returns the sum of its two arguments: lambda a, b: a+b. Lambda functions can be used wherever function objects are required. They are syntactically restricted to a single expression. Semantically, they are just syntactic sugar for a normal function definition. Like nested function definitions, lambda functions can reference variables from the containing scope:\n>>> def make_incrementor(n):\n...     return lambda x: x + n\n...\n>>> f = make_incrementor(42)\n>>> f(0)\n42\n>>> f(1)\n43\nThe above example uses a lambda expression to return a function. Another use is to pass a small function as an argument. For instance, list.sort() takes a sorting key function key which can be a lambda function:\n>>> pairs = [(1, 'one'), (2, 'two'), (3, 'three'), (4, 'four')]\n>>> pairs.sort(key=lambda pair: pair[1])\n>>> pairs\n[(4, 'four'), (1, 'one'), (3, 'three'), (2, 'two')]\n4.9.7. Documentation Strings\nHere are some conventions about the content and formatting of documentation strings.\nThe first line should always be a short, concise summary of the object\u2019s purpose. For brevity, it should not explicitly state the object\u2019s name or type, since these are available by other means (except if the name happens to be a verb describing a function\u2019s operation). This line should begin with a capital letter and end with a period.\nIf there are more lines in the documentation string, the second line should be blank, visually separating the summary from the rest of the description. The following lines should be one or more paragraphs describing the object\u2019s calling conventions, its side effects, etc.\nThe Python parser does not strip indentation from multi-line string literals in Python, so tools that process documentation have to strip indentation if desired. This is done using the following convention. The first non-blank line after the first line of the string determines the amount of indentation for the entire documentation string. (We can\u2019t use the first line since it is generally adjacent to the string\u2019s opening quotes so its indentation is not apparent in the string literal.) Whitespace \u201cequivalent\u201d to this indentation is then stripped from the start of all lines of the string. Lines that are indented less should not occur, but if they occur all their leading whitespace should be stripped. Equivalence of whitespace should be tested after expansion of tabs (to 8 spaces, normally).\nHere is an example of a multi-line docstring:\n>>> def my_function():\n...     \"\"\"Do nothing, but document it.\n...\n...     No, really, it doesn't do anything.\n...     \"\"\"\n...     pass\n...\n>>> print(my_function.__doc__)\nDo nothing, but document it.\n\nNo, really, it doesn't do anything.\n4.9.8. Function Annotations\nFunction annotations are completely optional metadata information about the types used by user-defined functions (see PEP 3107 and PEP 484 for more information).\nAnnotations are stored in the __annotations__ attribute of the function as a dictionary and have no effect on any other part of the function. Parameter annotations are defined by a colon after the parameter name, followed by an expression evaluating to the value of the annotation. Return annotations are defined by a literal ->, followed by an expression, between the parameter list and the colon denoting the end of the def statement. The following example has a required argument, an optional argument, and the return value annotated:\n>>> def f(ham: str, eggs: str = 'eggs') -> str:\n...     print(\"Annotations:\", f.__annotations__)\n...     print(\"Arguments:\", ham, eggs)\n...     return ham + ' and ' + eggs\n...\n>>> f('spam')\nAnnotations: {'ham': <class 'str'>, 'return': <class 'str'>, 'eggs': <class 'str'>}\nArguments: spam eggs\n'spam and eggs'\n4.10. Intermezzo: Coding Style\nNow that you are about to write longer, more complex pieces of Python, it is a good time to talk about coding style. Most languages can be written (or more concise, formatted) in different styles; some are more readable than others. Making it easy for others to read your code is always a good idea, and adopting a nice coding style helps tremendously for that.\nFor Python, PEP 8 has emerged as the style guide that most projects adhere to; it promotes a very readable and eye-pleasing coding style. Every Python developer should read it at some point; here are the most important points extracted for you:\nUse 4-space indentation, and no tabs.\n4 spaces are a good compromise between small indentation (allows greater nesting depth) and large indentation (easier to read). Tabs introduce confusion, and are best left out.\nWrap lines so that they don\u2019t exceed 79 characters.\nThis helps users with small displays and makes it possible to have several code files side-by-side on larger displays.\nUse blank lines to separate functions and classes, and larger blocks of code inside functions.\nWhen possible, put comments on a line of their own.\nUse docstrings.\nUse spaces around operators and after commas, but not directly inside bracketing constructs: a = f(1, 2) + g(3, 4).\nName your classes and functions consistently; the convention is to use UpperCamelCase for classes and lowercase_with_underscores for functions and methods. Always use self as the name for the first method argument (see A First Look at Classes for more on classes and methods).\nDon\u2019t use fancy encodings if your code is meant to be used in international environments. Python\u2019s default, UTF-8, or even plain ASCII work best in any case.\nLikewise, don\u2019t use non-ASCII characters in identifiers if there is only the slightest chance people speaking a different language will read or maintain the code.\nFootnotes\n[1]\nActually, call by object reference would be a better description, since if a mutable object is passed, the caller will see any changes the callee makes to it (items inserted into a list).",
+      "metadata": {
+        "url": "https://docs.python.org/3/tutorial/controlflow.html",
+        "title": "4. More Control Flow Tools",
+        "source": "web_scraping",
+        "navigation": "Table of Contents\n4. More Control Flow Tools\n4.1. if Statements\n4.2. for Statements\n4.3. The range() Function\n4.4. break and continue Statements\n4.5. else Clauses on Loops\n4.6. pass Statements\n4.7. match Statements\n4.8. Defining Functions\n4.9. More on Defining Functions\n4.9.1. Default Argument Values\n4.9.2. Keyword Arguments\n4.9.3. Special parameters\n4.9.3.1. Positional-or-Keyword Arguments\n4.9.3.2. Positional-Only Parameters\n4.9.3.3. Keyword-Only Arguments\n4.9.3.4. Function Examples\n4.9.3.5. Recap\n4.9.4. Arbitrary Argument Lists\n4.9.5. Unpacking Argument Lists\n4.9.6. Lambda Expressions\n4.9.7. Documentation Strings\n4.9.8. Function Annotations\n4.10. Intermezzo: Coding Style\nPrevious topic\n3. An Informal Introduction to Python\nNext topic\n5. Data Structures\nThis page\nReport a bug\nShow source\n\u00ab",
+        "scraped_at": "2025-07-06T01:38:59.066798"
+      },
+      "chunks": 52
+    }
+  },
+  "last_updated": "2025-07-06T01:39:59.106040"
+}
