@@ -1,0 +1,38 @@
+{
+  "entities": {
+    "user_auth": {
+      "id": "user_auth",
+      "name": "User Authentication",
+      "type": "feature"
+    },
+    "support": {
+      "id": "support",
+      "name": "Technical Support",
+      "type": "service"
+    }
+  },
+  "relationships": [
+    {
+      "source": "user_auth",
+      "target": "support",
+      "type": "requires"
+    }
+  ],
+  "documents": {
+    "doc_001": {
+      "content": "\n            PortalHelper is a comprehensive web portal that provides various services to users.\n            Users can reset their passwords using the \"Forgot Password\" link on the login page.\n            For technical support, contact support@portal.com or call 1-800-HELP.\n            The portal features include user authentication, document management, and real-time notifications.\n            ",
+      "metadata": {
+        "category": "general",
+        "author": "admin"
+      }
+    },
+    "doc_002": {
+      "content": "\n            User authentication in PortalHelper supports multiple methods including email/password,\n            two-factor authentication, and social login options. The system automatically locks\n            accounts after 5 failed login attempts. Password requirements include at least 8 characters\n            with uppercase, lowercase, numbers, and special characters.\n            ",
+      "metadata": {
+        "category": "security",
+        "author": "security_team"
+      }
+    }
+  },
+  "last_updated": "2025-07-06T01:43:15.443339"
+}

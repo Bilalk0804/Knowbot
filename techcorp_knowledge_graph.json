@@ -1,0 +1,101 @@
+{
+  "entities": {
+    "techcorp": {
+      "id": "techcorp",
+      "name": "TechCorp",
+      "type": "company"
+    },
+    "ai_chatbot": {
+      "id": "ai_chatbot",
+      "name": "AI Chatbot Platform",
+      "type": "product"
+    },
+    "hr_dept": {
+      "id": "hr_dept",
+      "name": "Human Resources",
+      "type": "department"
+    },
+    "eng_dept": {
+      "id": "eng_dept",
+      "name": "Engineering",
+      "type": "department"
+    },
+    "remote_work": {
+      "id": "remote_work",
+      "name": "Remote Work Policy",
+      "type": "policy"
+    },
+    "health_insurance": {
+      "id": "health_insurance",
+      "name": "Health Insurance",
+      "type": "benefit"
+    }
+  },
+  "relationships": [
+    {
+      "source": "techcorp",
+      "target": "ai_chatbot",
+      "type": "develops"
+    },
+    {
+      "source": "hr_dept",
+      "target": "remote_work",
+      "type": "manages"
+    },
+    {
+      "source": "eng_dept",
+      "target": "ai_chatbot",
+      "type": "builds"
+    },
+    {
+      "source": "remote_work",
+      "target": "health_insurance",
+      "type": "includes"
+    },
+    {
+      "source": "techcorp",
+      "target": "hr_dept",
+      "type": "employs"
+    },
+    {
+      "source": "techcorp",
+      "target": "eng_dept",
+      "type": "employs"
+    }
+  ],
+  "documents": {
+    "company_overview": {
+      "content": "\n            TechCorp is a leading technology company specializing in AI and machine learning solutions.\n            Founded in 2020, we have grown to over 500 employees across 10 countries.\n            Our main products include AI-powered chatbots, data analytics platforms, and cloud solutions.\n            We serve clients in healthcare, finance, and retail industries.\n            ",
+      "metadata": {
+        "category": "company",
+        "author": "marketing"
+      },
+      "chunks": 1
+    },
+    "hr_policies": {
+      "content": "\n            Employee benefits include health insurance, 401k matching, and unlimited PTO.\n            Remote work is supported with flexible hours. Office locations are in San Francisco,\n            New York, and London. New employees get 2 weeks of onboarding training.\n            Performance reviews are conducted quarterly with 360-degree feedback.\n            ",
+      "metadata": {
+        "category": "hr",
+        "author": "hr_team"
+      },
+      "chunks": 1
+    },
+    "tech_stack": {
+      "content": "\n            Our technology stack includes Python, JavaScript, React, Node.js, and AWS.\n            We use Docker for containerization and Kubernetes for orchestration.\n            Database systems include PostgreSQL, MongoDB, and Redis.\n            CI/CD pipeline uses GitHub Actions and Jenkins.\n            ",
+      "metadata": {
+        "category": "technology",
+        "author": "engineering"
+      },
+      "chunks": 1
+    },
+    "product_features": {
+      "content": "\n            Our AI chatbot platform supports multiple languages and integrates with Slack, Teams, and Discord.\n            Features include natural language processing, sentiment analysis, and automated responses.\n            The platform can handle up to 10,000 concurrent conversations with 99.9% uptime.\n            Custom training data can be uploaded to improve response accuracy.\n            ",
+      "metadata": {
+        "category": "product",
+        "author": "product_team"
+      },
+      "chunks": 1
+    }
+  },
+  "last_updated": "2025-07-06T01:43:22.453988"
+}
